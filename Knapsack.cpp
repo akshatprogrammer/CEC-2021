@@ -64,5 +64,4 @@ int main(){
     float mxVal = calculateMax(item, n, W);
     cout << "Max value for "<< W <<" weight is "<< mxVal;
 		
-	
 }
